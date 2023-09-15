@@ -12,6 +12,9 @@ bndc dsc b
 cnxz nx nz
 n sn
 nf vsdn vnsndbvs
+wwwwww
+ggggggggg
+ddddddddddddddd
 vsdnv sdns 
 csbnc asc nbasbc
 csanc nsa
